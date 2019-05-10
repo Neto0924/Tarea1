@@ -1,0 +1,63 @@
+body{
+	background: rgba(41, 128, 185,.1);
+	font-family: verdana;
+}
+
+.jumbotron{
+	color:#ecf0f1;
+	padding:2px 15px 2px 15px;
+	margin: 5px 20px 20px 15px;
+}
+
+hr{
+	border:solid 1px #ecf0f1;
+	background: #ecf0f1;
+	border-radius: 10px ; 
+}
+
+h1{
+	padding: 0px;
+	margin: 0px;
+}
+
+.sombraPanel{
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+
+a{
+	color: #ffffff;
+}
+
+
+
+.panel-body{
+	min-height: 120px;
+}
+
+/*------------------*/
+
+/*Estructura en azul*/
+	.fAzul{
+		background: rgba(100, 78, 32,1.0);
+		color:#ecf0f1;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
